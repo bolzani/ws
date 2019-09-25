@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "c1d14588e5558a3669fd03510d135d88c5109069",
+          "version": "5.0.0-rc.2"
+        }
+      },
+      {
+        "package": "Arrow",
+        "repositoryURL": "https://github.com/bolzani/Arrow",
+        "state": {
+          "branch": null,
+          "revision": "19fb8e77c454df64f67c124f6cfc11942e42af8c",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "then",
+        "repositoryURL": "https://github.com/bolzani/then",
+        "state": {
+          "branch": null,
+          "revision": "b17c854506b4d8bc62ddf332681ead6263f067d8",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
