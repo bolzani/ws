@@ -22,7 +22,7 @@ let package = Package(
         .target(
             name: "ws",
             dependencies: [],
-            path: "Source"),
+            path: "ws"),
         .testTarget(
             name: "wsTests",
             dependencies: ["ws"],
